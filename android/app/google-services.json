@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290337977329",
+    "project_id": "firebae-interntest",
+    "storage_bucket": "firebae-interntest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290337977329:android:f32ef57a284f3dc4aa4a50",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDsXdpmQYim7MTPXjF_KEs1DxBOPUfxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
